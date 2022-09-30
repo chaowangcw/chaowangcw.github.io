@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Xi'an, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Xi'an Jiaotong University, 2016
+* M.S. in Economics, Xi'an Jiaotong University, 2018
+* Ph.D in Economics, Indiana University, 2024 (expected)
 
 Work experience
 ======
