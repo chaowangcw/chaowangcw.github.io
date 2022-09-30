@@ -44,9 +44,9 @@ Skills
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 * Associate Instructor:
   * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
 * Teaching Assistant:
@@ -56,9 +56,9 @@ Teaching
   * Intro to Microeconomics, Indiana University, Summer 2022 & Summer 2020 & Spring 2020 & Fall 2019 & Fall 2018
   *	Intro to Macroeconomics, Indiana University, Summer 2021
   * Intermediate Macroeconomics Theory, Indiana University, Summer 2021
-	* Game Theory (Undergraduate level), Indiana University, Spring 2019
+  * Game Theory (Undergraduate level), Indiana University, Spring 2019
 
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
