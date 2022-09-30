@@ -19,11 +19,11 @@ Work experience
 ======
 * Winter 2019: Research Assistant
   * Indiana University
-  * Supervisor: Professor Ruli Xiao
+  * Supervisor: Ruli Xiao
 
 * Winter 2020: Research Assistant
   * Indiana University
-  * Supervisor: Professor Stefan Weiergraeber
+  * Supervisor: Stefan Weiergraeber
   
 Skills
 ======
@@ -42,13 +42,13 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
-======
 
-  <!-- <ul>{% for post in site.teaching %}
+  <!--<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+Teaching
+======
 * Associate Instructor:
   * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
 * Teaching Assistant:
