@@ -43,11 +43,12 @@ Skills
   {% endfor %}</ul> -->
   
 
-  <!--<ul>{% for post in site.teaching %}
+  <!--
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Teaching
+Teaching (again)
 ======
 * Associate Instructor:
   * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
