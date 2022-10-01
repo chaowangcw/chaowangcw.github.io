@@ -42,7 +42,7 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching (again)
+Teaching
 ======
 * Associate Instructor:
   * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
