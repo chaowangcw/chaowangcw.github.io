@@ -11,3 +11,9 @@ redirect_from:
 I am economics PhD candidate of Indiana University.
 
 Research interests: Industrial Organization, Applied Microeconomics, Applied Microeconometrics
+
+Wylie Hall, 100 S Woodlawn
+
+Bloomington, IN 47405-7104
+
+Email: cw102@iu.edu
