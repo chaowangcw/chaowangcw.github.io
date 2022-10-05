@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my [CV](/files/cv_ChaoWang_Research_2022) here.
+
 Education
 ======
 * B.S. in Economics, Xi'an Jiaotong University, 2016
