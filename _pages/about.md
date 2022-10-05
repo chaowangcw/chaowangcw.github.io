@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am currently PhD candidate in Department of Economics in Indiana University. You can download my [CV](/files/cv_ChaoWang_Research_2022.pdf) here.
+Welcome to my webpage! I am currently PhD candidate in Department of Economics in Indiana University. You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
 
 Research interests: Industrial Organization, Applied Microeconomics, Applied Microeconometrics
 
