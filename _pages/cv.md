@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my [CV](/files/cv_ChaoWang_Research_2022) here.
+You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
 
 Education
 ======
