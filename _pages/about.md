@@ -12,7 +12,7 @@ Welcome to my webpage! I am currently PhD candidate in Department of Economics i
 
 Research interests: Industrial Organization, Applied Microeconomics, Applied Microeconometrics
 
-Wylie Hall, 100 S Woodlawn
+Wylie Hall, 100 S Woodlawn, 
 Bloomington, IN 47405-7104
 
 Email: cw102@iu.edu
