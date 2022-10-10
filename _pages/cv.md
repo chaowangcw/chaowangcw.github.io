@@ -11,6 +11,8 @@ redirect_from:
 
 You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
 
+<embed src="https://chaowangcw.github.io/files/cv_ChaoWang_Research_2022.pdf" type="application/pdf" width="600px" height="500px" />
+
 Education
 ======
 * B.S. in Economics, Xi'an Jiaotong University, 2016
