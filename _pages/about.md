@@ -16,7 +16,18 @@ Research interests
 * Applied Microeconomics
 * Applied Microeconometrics
 
+Education
+======
+* B.S. in Economics, Xi'an Jiaotong University, 2016
+* M.S. in Economics, Xi'an Jiaotong University, 2018
+* Ph.D in Economics, Indiana University, 2024 (expected)
+
 Contact Information
 ======
 * Address: Wylie Hall, 100 S Woodlawn, Bloomington, IN 47405-7104
 * Email: cw102@iu.edu
+
+Skills
+======
+* Matlab, Stata, R, Python
+* Language: Mandarin Chinese (native), English (fluent)

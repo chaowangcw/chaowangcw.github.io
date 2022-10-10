@@ -13,27 +13,7 @@ You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
 
 <embed src="https://chaowangcw.github.io/files/cv_ChaoWang_Research_2022.pdf" type="application/pdf" width="600px" height="500px" />
 
-Education
-======
-* B.S. in Economics, Xi'an Jiaotong University, 2016
-* M.S. in Economics, Xi'an Jiaotong University, 2018
-* Ph.D in Economics, Indiana University, 2024 (expected)
-
-Work experience
-======
-* Winter 2019: Research Assistant
-  * Indiana University
-  * Supervisor: Ruli Xiao
-
-* Winter 2020: Research Assistant
-  * Indiana University
-  * Supervisor: Stefan Weiergraeber
-  
-Skills
-======
-* Matlab, Stata, R, Python
-* Language: Mandarin Chinese (native), English (fluent)
-
+ 
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
@@ -46,18 +26,7 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
-======
-* Associate Instructor:
-  * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
-* Teaching Assistant:
-  * Theory of Price and Markets I (PhD level), Indiana University, Fall 2022
-  * Money and Banking, Indiana University, Summer 2022
-  * Statistical Analysis for Business and Economics, Indiana University, Spring 2022
-  * Intro to Microeconomics, Indiana University, Summer 2022 & Summer 2020 & Spring 2020 & Fall 2019 & Fall 2018
-  *	Intro to Macroeconomics, Indiana University, Summer 2021
-  * Intermediate Macroeconomics Theory, Indiana University, Summer 2021
-  * Game Theory (Undergraduate level), Indiana University, Spring 2019
+
 
   
 <!-- Service and leadership
