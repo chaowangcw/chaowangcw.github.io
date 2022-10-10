@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -58,7 +58,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# logo: "/assets/images/site-logo-iu.png"
+logo: "/assets/images/site-logo-iu.png"
 
 # SEO Related
 google_site_verification :
