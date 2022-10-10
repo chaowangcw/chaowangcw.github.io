@@ -9,7 +9,7 @@ author_profile: true
 
 Teaching
 ======
-* Associate Instructor:
+* Associate Instructor (full teaching load):
   * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
 * Teaching Assistant:
   * Theory of Price and Markets I (PhD level), Indiana University, Fall 2022
