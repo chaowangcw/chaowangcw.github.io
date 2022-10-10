@@ -10,9 +10,13 @@ redirect_from:
 
 Welcome to my webpage! I am currently PhD candidate in Department of Economics in Indiana University. You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
 
-Research interests: Industrial Organization, Applied Microeconomics, Applied Microeconometrics
+Research interests
+======
+* Industrial Organization
+* Applied Microeconomics
+* Applied Microeconometrics
 
-Wylie Hall, 100 S Woodlawn, 
-Bloomington, IN 47405-7104
-
-Email: cw102@iu.edu
+Contact Information
+======
+* Address: Wylie Hall, 100 S Woodlawn, Bloomington, IN 47405-7104
+* Email: cw102@iu.edu
