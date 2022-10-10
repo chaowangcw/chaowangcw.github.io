@@ -30,4 +30,4 @@ Skills
 Contact Information
 ======
 * Address: Wylie Hall, 100 S Woodlawn, Bloomington, IN 47405-7104
-* Email: cw102@iu.edu
+* Email: "cw102@iu.edu"
