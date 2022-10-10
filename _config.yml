@@ -5,6 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
@@ -48,9 +57,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # , "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-logo: "/assets/images/site-logo-iu.png"
+
+# logo: "/assets/images/site-logo-iu.png"
 
 # SEO Related
 google_site_verification :
