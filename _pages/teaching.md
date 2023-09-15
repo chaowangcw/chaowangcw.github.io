@@ -28,6 +28,7 @@ Teaching
 Teaching
 ======
 * Associate Instructor (full teaching load):
+ 	* ECON-B 251 Fundamentals of Economics for Business I (Micro), Fall 2021
   * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
 * Teaching Assistant:
   * Theory of Price and Markets I (PhD level), Indiana University, Fall 2022
