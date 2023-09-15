@@ -25,7 +25,7 @@ Teaching
   * ECON-E 327 Game Theory, Indiana University, Spring 2019
   * ECON-E 201 Intro to Microeconomics, Indiana University,  Summer 2020 & Spring 2020 & Fall 2019 & Fall 2018
 
-<!-- Teaching
+<!-- Teaching (Please notice indentation before each row)
 ======
 * Associate Instructor (full teaching load):
   * Econ-B 251 Fundamentals of Economics for Business I (Micro), Fall 2021
