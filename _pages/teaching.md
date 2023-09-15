@@ -7,20 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Teaching
-======
-* Associate Instructor (full teaching load):
-  * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
-* Teaching Assistant:
-  * Theory of Price and Markets I (PhD level), Indiana University, Fall 2022
-  * Money and Banking, Indiana University, Summer 2022
-  * Statistical Analysis for Business and Economics, Indiana University, Spring 2022
-  * Intro to Microeconomics, Indiana University, Summer 2022 & Summer 2020 & Spring 2020 & Fall 2019 & Fall 2018
-  *	Intro to Macroeconomics, Indiana University, Summer 2021
-  * Intermediate Macroeconomics Theory, Indiana University, Summer 2021
-  * Game Theory (Undergraduate level), Indiana University, Spring 2019 -->
 
--- Teaching
+
+Teaching
 ======
 * Associate Instructor (full teaching load):
  	* ECON-B 251 Fundamentals of Economics for Business I (Micro), Indiana University, Fall 2021
@@ -35,3 +24,16 @@ author_profile: true
 	* ECON-B 251 Fundamentals of Economics for Business I (Micro), Indiana University, Spring 2021
 	* ECON-E 327 Game Theory, Indiana University, Spring 2019
 	* ECON-E 201 Intro to Microeconomics, Indiana University,  Summer 2020 & Spring 2020 & Fall 2019 & Fall 2018
+
+<!-- Teaching
+======
+* Associate Instructor (full teaching load):
+  * Fundamentals of Economics I, Indiana University, Fall 2020  &  Fall 2021
+* Teaching Assistant:
+  * Theory of Price and Markets I (PhD level), Indiana University, Fall 2022
+  * Money and Banking, Indiana University, Summer 2022
+  * Statistical Analysis for Business and Economics, Indiana University, Spring 2022
+  * Intro to Microeconomics, Indiana University, Summer 2022 & Summer 2020 & Spring 2020 & Fall 2019 & Fall 2018
+  *	Intro to Macroeconomics, Indiana University, Summer 2021
+  * Intermediate Macroeconomics Theory, Indiana University, Summer 2021
+  * Game Theory (Undergraduate level), Indiana University, Spring 2019 -->
