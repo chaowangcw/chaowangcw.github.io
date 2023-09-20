@@ -7,10 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers
+Job Market Paper
 ======
+
 * **"Endowment Heterogeneity in Preference for Electric Vehicle"** (Job Market Paper, draft coming soon)
 
+
+Working Papers
+======
 
 * [**"Identification of Dynamic Discrete Choice Models with Hyperbolic Discounting Using a Terminating Action"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4126360) with Ruli Xiao and Stefan Weiergraeber (submitted) 
     
@@ -19,3 +23,7 @@ Working Papers
 * [**"Identiﬁcation of hyperbolic discount factor in dynamic discrete choice model with multiple terminating actions"**](/files/hyperbolic_multiple_terminating_action.pdf)
     
     This paper studies identification of quasi-hyperbolic discount dynamic discrete choice models in both finite and infinite horizons, exploring the unique features of the presence of multiple terminating actions. Under economically meaningful exclusion restrictions, the identification of discount factors is characterized by polynomial moment conditions. The presence of multiple terminating actions greatly reduces the complication of the identification and also helps relax the restrictions imposed on the flow utility function. This paper also examines the impact of estimating the `underlying' hyperbolic discounting model as the prevalent exponential discount model. I find that such misspecification could lead to misleading policy implications. 
+
+Work in Progress
+======
+
