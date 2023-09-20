@@ -9,6 +9,8 @@ author_profile: true
 
 Working Papers
 ======
+* ["Endowment Heterogeneity in Preference for Electric Vehicle"] (Job Market Paper, draft coming soon)
+
 
 * ["Identification of Dynamic Discrete Choice Models with Hyperbolic Discounting Using a Terminating Action"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4126360) with Ruli Xiao and Stefan Weiergraeber (submitted) 
     
