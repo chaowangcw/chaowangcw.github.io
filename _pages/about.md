@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am currently a Ph.D. candidate in Department of Economics in Indiana University. I will be on the job market in the academic year 2023-2024. My doctoral dissertationjob market paper studies how the consumer preference for new vehicle is affected by the consumer current vehicle holding, and how this consumer heterogeneity would affect the electric vehicle subsidy policy. You can [download my CV here](/files/Chao_Wang_CV.pdf).
+Welcome to my webpage! I am currently a Ph.D. candidate in Department of Economics in Indiana University. I will be on the job market in the academic year 2023-2024. My job market paper studies how the consumer preference for new vehicle is affected by the consumer current vehicle holding, and how this consumer heterogeneity would affect the electric vehicle subsidy policy. You can [download my CV here](/files/Chao_Wang_CV.pdf).
 
 Research interests
 ======
