@@ -25,7 +25,7 @@ Education
 Skills
 ======
 * Programming: Matlab, R, Python, Stata, Fortran
-* Language: Mandarin Chinese (native), English (fluent)
+* Language: English (fluent), Mandarin Chinese (native)
 
 Contact Information
 ======
