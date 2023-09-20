@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am currently PhD candidate in Department of Economics in Indiana University. You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
+Welcome to my webpage! I am currently PhD candidate in Department of Economics in Indiana University. I will be on the job market in academic year 2023-2024. My doctoral dissertation studies how the consumer preference for new vehicle is affected by the consumer current vehicle holding, and how this consumer heterogeneity would affect the electric vehicle subsidy policy. You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
 
 Research interests
 ======

@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can [download my CV here](/files/cv_ChaoWang_Research_2022.pdf).
+You can [download my CV here](/files/Chao_Wang_CV.pdf).
 
-<embed src="https://chaowangcw.github.io/files/cv_ChaoWang_Research_2022.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://chaowangcw.github.io/files/Chao_Wang_CV.pdf" type="application/pdf" width="600px" height="500px" />
 
  
 <!-- Publications
