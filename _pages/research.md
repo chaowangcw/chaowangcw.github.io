@@ -10,7 +10,7 @@ author_profile: true
 Job Market Paper
 ======
 
-* **"Subsidizing Electric Vehicle among Heterogenous Consumers: Does Vehicle Holding Matter?"** (Job Market Paper, draft coming soon)
+* **"Subsidizing Electric Vehicles among Heterogeneous Consumers: Does Vehicle Holding Matter?"** (Job Market Paper, draft coming soon)
 
 
 Working Papers
