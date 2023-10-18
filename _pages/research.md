@@ -27,3 +27,6 @@ Working Papers
 Work in Progress
 ======
 
+* **"Vintage Models in Demand for Automobiles"**
+
+* **"New Technology, Environmental Impact and Time Preference: Evidence from Electric Vehicle Adoption"**
