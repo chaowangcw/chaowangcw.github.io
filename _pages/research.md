@@ -10,8 +10,12 @@ author_profile: true
 Job Market Paper
 ======
 
-* **"Subsidizing Electric Vehicles among Heterogeneous Consumers: Does Vehicle Holding Matter?"** (Job Market Paper, draft coming soon)
+* [**"Subsidizing Electric Vehicles among Heterogeneous Consumers: Does Vehicle Holding Matter?"**](/files/EV_Chao_JMP.pdf)
 
+    In the United States, most households can access one or more vehicles. I study the impact of household vehicle holding heterogeneity on subsidy policy design in promoting electric vehicles (EV). Using consumer vehicle surveys in California, I find heterogeneity among households holding different vehicles.
+    I then develop a structural model of household automobile choice incorporating vehicle holdings.  
+    Combining market sales data and survey information, I identify the vehicle holding heterogeneity effect and quantify its welfare implications.
+    Counterfactual simulations suggest that redistributing subsidy amounts across households with different vehicle holdings can raise EV sales by 8% without augmenting subsidy expenditure, with the cost of reducing consumer surplus by 0.1%.
 
 Working Papers
 ======
