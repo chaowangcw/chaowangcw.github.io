@@ -28,6 +28,6 @@ Working Papers
 Work in Progress
 ======
 
-* **"Vintage Models in Demand for Automobiles"**
+* **"Vintage Models in Demand for Automobiles"** with Ruli Xiao and Stefan Weiergraeber 
 
 * **"New Technology, Environmental Impact and Time Preference: Evidence from Electric Vehicle Adoption"**
