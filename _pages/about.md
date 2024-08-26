@@ -18,7 +18,7 @@ Research interests
 
 Education
 ======
-* Ph.D in Economics, Indiana University, 2024 (expected)
+* Ph.D in Economics, Indiana University, 2024
 * M.A. in Economics, Xi'an Jiaotong University, 2018
 * B.A. in Economics, Xi'an Jiaotong University, 2016
 
