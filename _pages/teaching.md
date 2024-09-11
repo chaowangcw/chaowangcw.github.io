@@ -15,7 +15,7 @@ Teaching
   * ECON-B 251 Fundamentals of Economics for Business I (Micro), Fall 2021 [Syllabus](/files/Syllabus_B251_FA21.pdf)
   * ECON-E 251 Fundamentals of Economics I (Micro), Fall 2020 [Syllabus](/files/Syllabus_E251_FA20.pdf)
 * Teaching Assistant:
-  * ECON-B 251 Fundamentals of Economics for Business I (Micro) \hfill Spring 2024 \& Spring 2021 \\	
+  * ECON-B 251 Fundamentals of Economics for Business I (Micro)  Spring 2024 & Spring 2021
   * ECON-E 521 Theory of Price and Markets I (Ph.D. level), Fall 2022
   * ECON-E 305 Money and Banking, Summer 2022
   * ECON-E 251 Fundamentals of Economics I (Micro), Summer 2022
