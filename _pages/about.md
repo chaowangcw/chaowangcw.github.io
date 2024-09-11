@@ -29,5 +29,5 @@ Skills
 
 Contact Information
 ======
-* Address: Institute for Advanced Economic Research, Dongbei University of Finance & Economics, 217 Jianshan Street, Dalian, China
+* Address: Institute for Advanced Economic Research, Dongbei University of Finance and Economics, 217 Jianshan Street, Dalian, China
 * Email: [chaowang@dufe.edu.cn](mailto:chaowang@dufe.edu.cn)
