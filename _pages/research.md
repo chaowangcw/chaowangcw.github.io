@@ -7,15 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Job Market Paper
+Working Papers
 ======
-
 * [**"Subsidizing Electric Vehicles among Heterogeneous Consumers: Does Vehicle Holding Matter?"**](/files/EV_Chao_JMP.pdf)
 
     In the United States, most households can access one or more vehicles. I study the impact of household vehicle holding on a household's vehicle purchasing decisions and the benefit of taking into account such an impact on EV subsidy policy. I develop a structural model of household automobile decisions while allowing for the willingness to pay for the new vehicle to vary with the current vehicle holdings. Combining market sales data and survey information in California, I identify and estimate the preference heterogeneity induced by vehicle holding and quantify its welfare implications. Households without vehicles exhibit a higher vehicle purchase propensity, while households with EVs are more likely to acquire additional EVs compared to households with gasoline vehicles. Counterfactual simulations indicate that redistributing subsidy amounts across households with different vehicle holdings could increase EV sales by 8% without augmenting subsidy expenditure, at the cost of a 0.1% reduction in consumer surplus. In contrast, achieving the same level of EV sales under the current subsidy scheme would require an additional $81.6 million in the government's subsidy budget.
-
-Working Papers
-======
 
 * [**"Identification of Dynamic Discrete Choice Models with Hyperbolic Discounting Using a Terminating Action"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4126360) with Ruli Xiao and Stefan Weiergraeber (Revise-and-resubmit at **Journal of Business & Economic Statistics**) 
     
@@ -28,6 +24,6 @@ Working Papers
 Work in Progress
 ======
 
-* **"Vintage Models in Demand for Automobiles"** with Ruli Xiao and Stefan Weiergraeber 
+* **"Vintage Models in Demand for Automobiles"**
 
 * **"New Technology, Environmental Impact and Time Preference: Evidence from Electric Vehicle Adoption"**

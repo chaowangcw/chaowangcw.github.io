@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am currently a Ph.D. candidate in Department of Economics in Indiana University. I will be on the job market in the academic year 2023-2024. My job market paper studies how the consumer preference for new vehicle is affected by the consumer current vehicle holding, and how this consumer heterogeneity would affect the electric vehicle subsidy policy. You can [download my CV here](/files/Chao_Wang_CV.pdf).
+Welcome to my webpage! I am currently an assistant professor at the Institute for Advanced Economic Research, Dongbei University of Finance and Economics. I received his Ph.D. in Economics from Indiana University Bloomington in 2024. My research interests are empirical industrial organization, applied microeconometrics, and applied microeconomics. I am particularly interested in industry policy, demand estimation, and identification in dynamic discrete choice model. Specifically, I study (1) how the consumer heterogeneity affects the industrial policy design, (2) how the coesixting of old and new products affects the demand estimation, and (3) identification of time preference in dynamic discrete choice model.You can [download my CV here](/files/Chao_Wang_CV_2024.pdf).
 
 Research interests
 ======
@@ -29,5 +29,5 @@ Skills
 
 Contact Information
 ======
-* Address: Wylie Hall, 100 S Woodlawn, Bloomington, IN 47405-7104
-* Email: [cw102@iu.edu](mailto:cw102@iu.edu)
+* Address: Institute for Advanced Economic Research, Dongbei University of Finance & Economics, 217 Jianshan Street, Dalian, China
+* Email: [chaowang@dufe.edu.cn](mailto:chaowang@dufe.edu.cn)

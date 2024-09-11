@@ -92,12 +92,12 @@ analytics:
 author:
   name             : "Chao Wang"
   avatar           : "profile.png"
-  bio              : "Economics PhD Candidate @ IU"
-  location         : "Bloomington, IN"
-  employer         : "Indiana University"
+  bio              : "Assistant Professor @ DUFE"
+  location         : "Dalian, China"
+  employer         : "Dongbei University of Finance and Economics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "cw102@iu.edu"
+  email            : "chaowang@dufe.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
