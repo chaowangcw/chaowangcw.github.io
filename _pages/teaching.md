@@ -11,6 +11,10 @@ author_profile: true
 
 Teaching
 ======
+* Instructor:
+  * Industrial Organization (Ph.D. level), Fall 2025 at IAER
+  * Environmental Economics, Fall 2025 at IAER
+  * China Economic Questions (joint with other faculty), Spring 2025 at IAER
 * Associate Instructor (full teaching load):
   * ECON-B 251 Fundamentals of Economics for Business I (Micro), Fall 2021 [Syllabus](/files/Syllabus_B251_FA21.pdf)
   * ECON-E 251 Fundamentals of Economics I (Micro), Fall 2020 [Syllabus](/files/Syllabus_E251_FA20.pdf)

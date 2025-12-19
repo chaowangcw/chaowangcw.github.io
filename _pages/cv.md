@@ -12,7 +12,7 @@ redirect_from:
 You can [download my CV here](/files/Chao_Wang_CV.pdf). 
 <!-- Alternatively, you can find [my resume](/files/Resume_ChaoWang.pdf) here. -->
 
-<embed src="https://chaowangcw.github.io/files/Chao_Wang_CV_2024.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://chaowangcw.github.io/files/Chao_Wang_CV.pdf" type="application/pdf" width="600px" height="500px" />
 
  
 <!-- Publications
