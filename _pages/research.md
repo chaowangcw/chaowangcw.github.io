@@ -15,6 +15,11 @@ Publications
 
 Working Papers
 ======
+* [**"Understanding Fertility Today: Young Couples' Expectations about the Consequences of Childbearing"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6673263) with Kelin Lu
+<!-- (/files/EV_Chao_JMP.pdf) -->
+
+    Fertility decisions are forward-looking and made within couples, yet little is known about how young couples perceive the consequences of childbearing. We survey 1,800 respondents from paired Chinese one-child couples and elicit second-birth plans and expectations about life outcomes under alternative fertility choices, including consumption, wages, time burdens, and old-age support. We use these data to estimate a household bargaining model. Wives are more likely than husbands to oppose a second birth. The main driver of this disagreement is not wives' weak bargaining power, but gender differences in preferences over child quantity. Policy simulations show that public childcare, especially when it also reduces motherhood wage penalties, is more effective than cash transfers. The old-age value of children operates more through support in adverse health states than through financial transfers, but an additional child provides only limited extra insurance. These results show the value of measuring the beliefs and trade-offs that shape fertility decisions among current cohorts.
+
 * [**"Subsidizing Electric Vehicles among Heterogeneous Consumers: Does Vehicle Holding Matter?"**]
 <!-- (/files/EV_Chao_JMP.pdf) -->
 
